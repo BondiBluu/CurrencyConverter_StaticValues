@@ -24,5 +24,19 @@ namespace CurrencyConverter_StaticValues
         {
             InitializeComponent();
         }
+
+        public void NumberValidationTextBox(object sender, TextCompositionEventArgs e)
+        {
+            
+        }
+
+        public void Convert_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+     
+        public void Clear_Click(object sender, RoutedEventArgs e)
+        {
+        }
     }
 }
